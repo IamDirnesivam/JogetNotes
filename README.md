@@ -2,9 +2,13 @@
 Notes for learning Joget DX.
 
 [1-IntroductiontoJoget.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020460/1-IntroductiontoJoget.pdf)
+
 [2-SettingupJoget.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020464/2-SettingupJoget.pdf)
+
 [3-DesigningyourfirstProcess.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020465/3-DesigningyourfirstProcess.pdf)
+
 [4-LocalizingyourJoget.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020466/4-LocalizingyourJoget.pdf)
+
 [5-DesigningyourfirstForm.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020467/5-DesigningyourfirstForm.pdf)
 [6-UsingyourfirstProcessTool.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020468/6-UsingyourfirstProcessTool.pdf)
 [7-DesigningyourfirstDatalist.pdf](https://github.com/IamDirnesivam/JogetNotes/files/8020469/7-DesigningyourfirstDatalist.pdf)
